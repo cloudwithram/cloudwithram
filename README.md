@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Project
 
-### 🧠 [Smart Tutor Ram](https://rammohan12345.github.io/Smart-Tutor-Ram)
+### 🧠 [Smart Tutor Ram](https://cloudwithram.github.io/Smart-Tutor-Ram)
 > AI-powered Microsoft certification study platform
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -52,14 +52,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rammohan12345&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rammohan12345&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cloudwithram&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cloudwithram&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/rammohan12345">
-    <img src="https://img.shields.io/github/followers/rammohan12345?label=Follow&style=social"/>
+  <a href="https://github.com/cloudwithram">
+    <img src="https://img.shields.io/github/followers/cloudwithram?label=Follow&style=social"/>
   </a>
 </p>
