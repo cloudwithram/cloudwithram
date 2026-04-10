@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cloudwithram&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/cloudwithram)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
